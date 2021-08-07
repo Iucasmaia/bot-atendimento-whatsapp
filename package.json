@@ -1,0 +1,26 @@
+{
+  "name": "maiab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "axios": "^0.21.1",
+    "crypto": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^2.3.3",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.33",
+    "nedb-async": "^0.1.6",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1"
+  }
+}

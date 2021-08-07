@@ -1,0 +1,43 @@
+{
+	"key": {
+		"remoteJid": "554791253976@s.whatsapp.net",
+		"fromMe": false,
+		"id": "3AFD7B25EEB1B8A465D1"
+	},
+	"message": {
+		"buttonsResponseMessage": {
+			"selectedButtonId": "nao",
+			"selectedDisplayText": "Não",
+			"contextInfo": {
+				"stanzaId": "3EB0DDDF414F",
+				"participant": "16575674053@s.whatsapp.net",
+				"quotedMessage": {
+					"buttonsMessage": {
+						"contentText": "Olá, maia.\nParece que você ainda não possui cadastro em nosso sistema.\n\nGostaria de realizar seu cadastro agora?",
+						"footerText": "É um processo simples e não solicitaremos informações sensíveis.",
+						"buttons": [
+							{
+								"buttonId": "sim",
+								"buttonText": {
+									"displayText": "Sim"
+								},
+								"type": "RESPONSE"
+							},
+							{
+								"buttonId": "nao",
+								"buttonText": {
+									"displayText": "Não"
+								},
+								"type": "RESPONSE"
+							}
+						],
+						"headerType": "EMPTY"
+					}
+				}
+			},
+			"type": "DISPLAY_TEXT"
+		}
+	},
+	"messageTimestamp": "1627870685",
+	"ephemeralOutOfSync": false
+}
