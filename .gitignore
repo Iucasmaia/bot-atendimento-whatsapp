@@ -3,4 +3,4 @@ node_modules
 # Ignore files
 session.json
 log.txt
-package-lock.jso
+package-lock.json
